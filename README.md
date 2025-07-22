@@ -88,6 +88,11 @@ This interactive Power BI dashboard provides comprehensive insights into key eco
 #GDP analysis
 ![GDP analysis]{GDP analysis.png)
 
+#Population growth & economic indicators
+![Population growth & economic indicators][Population growth & economic indicators.png)
+
+
+
 
 
 
