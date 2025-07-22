@@ -80,10 +80,9 @@ This interactive Power BI dashboard provides comprehensive insights into key eco
 
 ## 📷 Screenshots
 
-> You can add screenshots in an images/ folder and reference them like:
-```md
-![GDP Overview](images/gdp-overview.png)
-✅ Author
+#Report preview
+#Overview page
+![Overview](Overview screenshot.png)
 
 Mohammed Abdalla
 📍 UAE
