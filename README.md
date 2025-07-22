@@ -91,6 +91,10 @@ This interactive Power BI dashboard provides comprehensive insights into key eco
 #Population growth & economic indicators
 ![Population growth & economic indicators][Population growth & economic indicators.png)
 
+#Economic classification breakdown
+![Economic classification breakdown](Economic classification breakdown.png}
+
+
 
 
 
@@ -99,7 +103,9 @@ This interactive Power BI dashboard provides comprehensive insights into key eco
 Mohammed Abdalla
 📍 UAE
 📧 alvin98.mo@gmail.com
-🔗 LinkedIn Profile (Add your LinkedIn URL)
+🔗 LinkedIn Profile (www.linkedin.com/in/mohammed-abdalla-526153318
+
+)
 
 ⸻
 
