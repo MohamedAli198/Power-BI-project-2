@@ -81,8 +81,15 @@ This interactive Power BI dashboard provides comprehensive insights into key eco
 ## 📷 Screenshots
 
 #Report preview
+
 #Overview page
 ![Overview](Overview screenshot.png)
+
+#GDP analysis
+![GDP analysis]{GDP analysis.png)
+
+
+
 
 Mohammed Abdalla
 📍 UAE
